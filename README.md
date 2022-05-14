@@ -23,7 +23,7 @@
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/khanhduy1407/github-readme-stats">
+  <a href="https://github.com/khanhduy1407/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=khanhduy1407&column=-1&theme=darkhub&no-frame=true" />
   </a>
 </p>
