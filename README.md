@@ -1,4 +1,10 @@
-<h1 align="center">Hi there, I'm NKDuy <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="30px"></h1>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=khanhduy1407">
+
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=&size=30&duration=3000&color=03A9F4&center=true&vCenter=true&lines=Hello%2C+there!++%F0%9F%91%8B;My+name+is+NKDuy......;Nice+to+meet+you!">
+  </a>
+</h1>
 
 ## 🚀 Languages and Tools:
 
