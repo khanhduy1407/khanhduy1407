@@ -22,6 +22,11 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=khanhduy1407&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
   </a>
 </p>
+<p align="center">
+  <a href="https://github.com/khanhduy1407/github-readme-stats">
+    <img src="https://github-profile-trophy.vercel.app/?username=khanhduy1407&column=-1&theme=darkhub&no-frame=true" />
+  </a>
+</p>
 
 ## 📊 My Github Stats
 
