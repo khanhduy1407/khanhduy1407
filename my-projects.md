@@ -16,4 +16,4 @@
 |:-:|:--|:-:|:-:|
 |K|[Kdu](https://github.com/KduJS)|Framework|:heavy_check_mark:|
 |D|Dulcet|OS|:x:|
-|U|Uta|Engine|:orange_circle:|
+|U|Uta|Engine|:heavy_check_mark:|
