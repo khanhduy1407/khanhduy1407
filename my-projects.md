@@ -15,5 +15,5 @@
 |Name|Category|Status|
 |:--|:-:|:-:|
 |[Kdu](https://github.com/KduJS)|Framework|:heavy_check_mark:|
-|Dulcet|OS|:x:|
+|Dulcet|OS|:orange_circle:|
 |[Uta](https://github.com/utaengine)|Engine|:heavy_check_mark:|
