@@ -22,6 +22,12 @@
 
 ## Medium Projects
 
+|Name|Category|Status|
+|:--|:-:|:-:|
+
 ---
 
 ## Mini Projects
+
+|Name|Category|Status|
+|:--|:-:|:-:|
