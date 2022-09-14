@@ -12,8 +12,8 @@
 
 ## Big Projects
 
-|Char|Name|Category|Status|
-|:-:|:--|:-:|:-:|
-|K|[Kdu](https://github.com/KduJS)|Framework|:heavy_check_mark:|
-|D|Dulcet|OS|:x:|
-|U|Uta|Engine|:heavy_check_mark:|
+|Name|Category|Status|
+|:--|:-:|:-:|
+|[Kdu](https://github.com/KduJS)|Framework|:heavy_check_mark:|
+|Dulcet|OS|:x:|
+|[Uta](https://github.com/utaengine)|Engine|:heavy_check_mark:|
