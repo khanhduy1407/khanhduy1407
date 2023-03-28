@@ -8,11 +8,11 @@
 
 ## 🤷‍♂️ Who I am
 
-Hi there, my name is NKDuy, I'm from Vietnam. I joined this IT community in 2020, when I was in the 2nd semester of 11th grade. By the time I went to college (in 2021), I started to like open source ❤️.
+Hi there, my name is NKDuy. I'm from Vietnam. I joined this IT community in 2020, the 2nd semester of 11th grade. By the time I went to college (in 2021), I had started to like open source ❤️.
 
 Currently, I am programming software and writing some support libraries for other developers to work more conveniently and economically.
 
-My favorite programming language are JavaScript/TypeScript, Java.
+My favorite programming languages are JavaScript/TypeScript and Java.
 
 ## 🚀 Languages and Tools:
 
