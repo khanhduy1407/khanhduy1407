@@ -81,7 +81,7 @@ My favorite programming languages are JavaScript/TypeScript and Java.
 <br/>
 <br/>
 
-## 🎊 Follow me
+## 🎊 Connect me
 
 - Email: nkduy.dev@gmail.com (or kn145660@gmail.com)
 - Facebook: https://www.facebook.com/khanhduy1407
