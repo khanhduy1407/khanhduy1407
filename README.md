@@ -49,7 +49,7 @@ My favorite programming languages are JavaScript/TypeScript and Java.
 
 <p align="center">
   <a href="https://github.com/khanhduy1407/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=khanhduy1407&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    <img src="https://streak-stats.demolab.com?user=khanhduy1407&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
   </a>
 </p>
 <p align="center">
